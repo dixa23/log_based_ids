@@ -1,0 +1,20 @@
+[
+    {
+        "timestamp": "2026-03-22 18:34:37.329814",
+        "source_ip": "192.168.1.10",
+        "event": "Brute Force Detected",
+        "attempts": 5
+    },
+    {
+        "timestamp": "2026-03-22 18:34:37.330089",
+        "source_ip": "203.0.113.5",
+        "event": "Brute Force Detected",
+        "attempts": 6
+    },
+    {
+        "timestamp": "2026-03-22 18:34:37.330242",
+        "source_ip": "45.33.32.156",
+        "event": "Brute Force Detected",
+        "attempts": 7
+    }
+]
